@@ -1,1 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Título de la Página</title>
+    <style>
+      body {
+        background-color: lightblue;
+      }
 
+      h1 {
+        color: navy;
+        font-size: 32px;
+        text-align: center;
+      }
+
+      p {
+        font-size: 18px;
+        text-align: justify;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Título Principal</h1>
+    <p>
+    <p>Este es un párrafo de texto.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        <p>Vestibulum eu massa magna. Aliquam quis malesuada nisl.</p>
+        <p>In malesuada odio vel felis pulvinar ultrices. Nulla facilisi.</p>
+        <p>tincidunt purus risus, eget varius sapien pellentesque eget.</p>
+    <p>Ut semper fringilla velit, ac porttitor purus gravida vel.</p>
+    </p>
+  </body>
